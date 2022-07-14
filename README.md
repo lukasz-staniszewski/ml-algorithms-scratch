@@ -6,15 +6,15 @@
 </div>
 
 <div align="center">
-  ENG: This repository contains popular Machine Learning algorithms made from scratch - only using NumPy library.
+  This repository contains popular Machine Learning algorithms made from scratch, only using NumPy.
 </div>
 
 ## Table of contents / Spis treści:
-#### I. <a href="https://github.com/lukasz-staniszewski/ml-algorithms-scratch/blob/main/newton-method-optimization/newton_optimization.ipynb"> NEWTON'S METHOD FOR FUNCTION MAXIMAZATION.</a>
+#### I. <a href="https://github.com/lukasz-staniszewski/ml-algorithms-scratch/blob/main/newton-method-optimization/newton_optimization.ipynb"> NEWTON'S METHOD FOR FUNCTION MAXIMAZATION</a>
 
 + For given objective functions Newton's method makes optimazation and finds maximum of function.
 
-#### II. <a href="https://github.com/lukasz-staniszewski/ml-algorithms-scratch/blob/main/evolution-algorithm/evolution_algorithm.ipynb"> EVOLUTIONARY ALGORITHM FOR FUNCTION OPTIMAZATION. </a>
+#### II. <a href="https://github.com/lukasz-staniszewski/ml-algorithms-scratch/blob/main/evolution-algorithm/evolution_algorithm.ipynb"> EVOLUTIONARY ALGORITHM FOR FUNCTION OPTIMAZATION </a>
 
 + Implementation of evolutionary algorithm without breeding with tournament selection and elite succession to find maximum and minimum of given functions. 
 
@@ -22,11 +22,11 @@
 
 + Implementation of minimax algorithm (without pruning) and use of it in Tic-Tac-Toe game.
 
-#### IV. <a href="https://github.com/lukasz-staniszewski/ml-algorithms-scratch/blob/main/svm-classification/svm_classification.ipynb"> MACHINE LEARNING WITH SVM FOR IRIS CLASSIFICATION. </a>
+#### IV. <a href="https://github.com/lukasz-staniszewski/ml-algorithms-scratch/blob/main/svm-classification/svm_classification.ipynb"> MACHINE LEARNING WITH SVM FOR IRIS CLASSIFICATION </a>
 
 + Implementation of model, method teaching linear SVM, optimazation of hiperparameters using gradient descent and classification on IRIS dataset.
 
-#### V. <a href="https://github.com/lukasz-staniszewski/ml-algorithms-scratch/blob/main/naive-bayes-classification/naive_bayes.ipynb"> NAIVE BAYES CLASSIFIER FOR WINE DATASET WITH CROSS VALIDATION. </a>
+#### V. <a href="https://github.com/lukasz-staniszewski/ml-algorithms-scratch/blob/main/naive-bayes-classification/naive_bayes.ipynb"> NAIVE BAYES CLASSIFIER FOR WINE DATASET WITH CROSS VALIDATION </a>
 
 + Implementation of Naive Bayes Classifier, use of it for Wine dataset classification and checking its correctness with k-fold cross validation.
 
